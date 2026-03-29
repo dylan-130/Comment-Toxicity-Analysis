@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+
+# Others
+.DS_Store
